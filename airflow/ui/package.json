@@ -16,7 +16,7 @@
     "@vvo/tzdb": "^6.7.0",
     "axios": "^0.21.1",
     "dayjs": "^1.10.4",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "framer-motion": "^3.10.0",
     "humps": "^2.0.1",
     "react": "^16",
